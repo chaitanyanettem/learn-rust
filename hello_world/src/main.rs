@@ -1,3 +1,4 @@
 fn main() {
-    println!("{:?}", println!("Hello World!"));
+    println!("Hello world!");
+    println!("{:?}", println!("Hello"));
 }
